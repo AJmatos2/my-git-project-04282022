@@ -1,5 +1,7 @@
-# React with Bootstrap Starter Project
+```
+my code for my git project 
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+owinoc nas d;kcj a;sj;nsajncon 
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+this is a test of my push repository 
+```
